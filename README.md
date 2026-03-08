@@ -36,13 +36,13 @@ We practice fundamental programming concepts including:
 ## Repository Structure
 
 Each problem follows the same structure:
-problem-name/
-│
-├── problem.md
-├── algorithm.md
-├── solution-js.js
-└── solution-python.py
-
+| Path                        | Description              |
+|-----------------------------|--------------------------|
+| problem-name/               | Root folder              |
+| ├─ problem.md               | Problem description      |
+| ├─ algorithm.md             | Algorithm explanation    |
+| ├─ solution-js.js           | JavaScript implementation|
+| └─ solution-python.py       | Python implementation    |
 ---
 
 ### Files Explained
